@@ -1,1 +1,1 @@
-export const BASE_URL = process.env.NODE_ENV === 'production' ? '' : 'http://localhost';
+export const BASE_URL = "https://jude-gao-blog-app.herokuapp.com"
