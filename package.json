@@ -2,6 +2,7 @@
   "name": "client",
   "license": "ISC",
   "private": true,
+  "homepage": "https://gaojude.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
